@@ -1,0 +1,68 @@
+{
+  "authors": [
+    {
+      "name": "Maya Angelou",
+      "email": "Maya@maya.com",
+      "id": 1
+    },
+    {
+      "name": "Mark Twain",
+      "email": "Mark@mark.com",
+      "id": 2
+    },
+    {
+      "name": "Grace Hopper",
+      "email": "Grace@grace.com",
+      "id": 3
+    }
+  ],
+  "topics": [
+    {
+      "category": "Business",
+      "id": 1
+    },
+    {
+      "category": "Friendly",
+      "id": 2
+    },
+    {
+      "category": "Family",
+      "id": 3
+    },
+    {
+      "category": "Congratulations",
+      "id": 4
+    },
+    {
+      "category": "Condolences",
+      "id": 5
+    }
+  ],
+  "recipients": [
+    {
+      "name": "Maya Angelou",
+      "email": "Maya@maya.com",
+      "id": 1
+    },
+    {
+      "name": "Mark Twain",
+      "email": "Mark@mark.com",
+      "id": 2
+    },
+    {
+      "name": "Grace Hopper",
+      "email": "Grace@grace.com",
+      "id": 3
+    }
+  ],
+  "letters": [
+    {
+      "authorId": 1,
+      "recipientId": 1,
+      "topicsId": null,
+      "content": "jkljjkljlj",
+      "sentat": "Tue Nov 15 2022 15:58:56 GMT-0600 (Central Standard Time)",
+      "id": 1
+    }
+  ]
+}

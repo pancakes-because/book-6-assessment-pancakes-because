@@ -1,0 +1,25 @@
+
+/* styles for the input fields  */ 
+/* decreased the width  */ 
+
+#Authors, #letterBody, #Topics, #Recipients  {
+
+    width: 40%; 
+
+}
+
+/* styles for the text headings */ 
+/* made the margin-bottom 0px, so there's no space between the text and input fields */ 
+
+p {
+
+    margin-bottom: 0px; 
+
+}
+
+#button {
+
+    margin-top: 20px; 
+    width: 110px; 
+
+}
